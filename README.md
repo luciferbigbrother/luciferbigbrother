@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Lucifer</h1>
 <h3 align="center">👨🏽‍💻 I’m a Freelancer & Cybersecurity Expart from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-show-hacking-data-1j1g6qqrah1fp6i4.webp")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciferbigbrother&label=Profile%20views&color=0e75b6&style=flat" alt="luciferbigbrother" /> </p>
 
